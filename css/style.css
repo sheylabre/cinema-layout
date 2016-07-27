@@ -1,0 +1,143 @@
+header{
+	background-color: white;
+	position: absolute;
+	width: 100%;
+	z-index: 1;
+}
+#barra p{
+	margin: 30px;
+	color: #DED6D4;
+}
+#busqueda{
+	margin-top: 10px;
+	margin-left: 350px;
+	height: 50px;
+}
+.banner{
+	background-image: url("../img/banner.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height:800px;
+	margin: 0px;
+	position: relative;
+}
+.ico{
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	top:310px;
+	left: 400px;
+}
+#lista{
+	position: absolute;
+	top: 630px;
+	background-color:#DFB636;
+	margin-top:80px;
+	width: 100%;
+	height: 300px;
+}
+#hero{
+	margin-top: 104px;
+}
+h2{
+	color: white;
+	font-size: 40px;
+	font-family: sans-serif;
+}
+hr{
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+span{
+	color: white;
+	margin: 15px;
+	font-family: sans-serif;
+}
+p{
+	margin:15px;
+	color: white;
+	font-family: sans-serif;
+}
+.border{
+	padding:10px;
+	margin-right: 10px;
+	color: #398C53;
+	border:2px solid;
+	border-radius: 5px;
+}
+.boton{
+	background-color:#DFB636;
+	color: white;
+	font-size: 18px;
+	border:none;
+	border-radius: 7px;
+	width: 220px;
+	height: 52px;
+	text-align: left;
+	padding:12px;
+	cursor: pointer;
+	margin: 5px;
+}
+#boton2{
+	background-color:#BB7B29; 
+}
+#imga{
+	position: absolute;
+	left: 60px;
+}
+.imgb{
+	
+	margin-left: 10px;
+	margin-top: 20px;
+	width: 190px;
+	height: 260px;
+}
+/*este es tu ccs milagros*/
+
+.button-ticket{
+	width: 150px;
+	height: 55px;
+	border-radius: 5px 10px 5px 10px;
+	background:#BB7B29;
+	padding:10px 30px;
+	color:white;
+	text-align: center;
+}
+.sub-title{
+	font-weight: bold;
+	color:#CDD2D3;
+	font-size: 20px;
+}
+.h0{
+	font-weight: bold;
+	color: #000000;
+	font-size: 24px;
+}
+.h1{
+	font-weight: bold;
+	color: #000000;
+	font-size: 24px;
+}
+.sub-title2 {
+	color:#CDD2D3;
+}
+.sub-title3 {
+	color:#CDD2D3;
+}
+.new-s{
+	color: #000000;
+}
+.movie-fila{
+	display: inline-block;
+	margin:20px 115px;
+}
+.footer{
+	background:#F3F3F3;
+	display:block;
+	height: 200px;
+}
+a{
+	text-decoration: none;
+	color:#CDD2D3;
+}
